@@ -5,7 +5,7 @@ import Link from "next/link";
 export default function Projects() {
   return (
     <>
-      <div className="container grid sm:grid-cols-12">
+      <div className="container bg-black text-white grid sm:grid-cols-12">
       <div className="left-part sm:col-span-4 sm:mx-24 md:my-56 my-5 md:fixed">
           <Navbar />
         </div>

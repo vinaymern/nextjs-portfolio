@@ -5,7 +5,7 @@ import Navbar from "@/app/navbar/page";
 export default function Skills() {
   return (
     <>
-      <div className="container grid sm:grid-cols-12">
+      <div className="container bg-black text-white grid sm:grid-cols-12">
       <div className="left-part sm:col-span-4 sm:mx-24 md:my-56 my-5 md:fixed">
           <Navbar />
         </div>
